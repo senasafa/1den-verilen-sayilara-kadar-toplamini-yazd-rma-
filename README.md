@@ -1,0 +1,1 @@
+# 1den-verilen-sayilara-kadar-toplamini-yazd-rma-
